@@ -31,7 +31,11 @@
 .information{
     width: 300px;
     padding: 50px;
-    color: white;
+    color: #ACA9A8;
+}
+#button-dowland{
+    border-radius: 20px;
+    border: solid 1px white;
 }
 .section-3 img{
     padding: 20px;
@@ -40,6 +44,8 @@
 }
 .section-3{
     background-color: #044D92;
+    padding-top: 30px;
+    padding-bottom: 30px;
     
 }
 .section-4{
@@ -50,11 +56,16 @@
     overflow: hidden;
 }
 .section-5{
+    text-align: left;
+    color: #ACA9A8;
     padding: 20px;
-    font-size: 30px;
+    font-size: 50px;
 }
-.section-5 #infomation-2{
-    width: 30%;
+.section-5 p{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    padding-right: 80px;
 }
 hr #linea {
     margin-top: 200px;
@@ -83,6 +94,7 @@ form .formulario{
 }
 
 form input{
+    
     margin-top: 10px;
     margin-bottom: 10px;
     border: 0px;
