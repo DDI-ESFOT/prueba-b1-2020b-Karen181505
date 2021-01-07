@@ -1,0 +1,117 @@
+
+#logo{
+    height: 100px;
+}
+#cellphone-image{
+    height: 450px;
+}
+#button-aplication{
+    width: 100px;
+}
+#contain,
+.section-5{
+    text-align: center;
+    margin-top: 50px;
+    margin: 0px auto;
+}
+#header-aplications,
+.section-2 .information{
+    margin-top: 50px;
+    text-align: start;
+    margin-left: 0%;
+    font-size: 40px;
+}
+.section-2{
+    width: 100%;
+    height: 600px;
+    background-image: url("../images/phone-2.a0e481df3d808370cf1d.jpg");
+    background-attachment: fixed;
+    overflow: hidden;
+}
+.information{
+    width: 300px;
+    padding: 50px;
+    color: white;
+}
+.section-3 img{
+    padding: 20px;
+    width: 100%;
+    
+}
+.section-3{
+    background-color: #044D92;
+    
+}
+.section-4{
+    width: 100%;
+    height: 600px;
+    background-image: url("../images/taxi.a74ffe08987564e2b9fd.jpg");
+    background-attachment: fixed;
+    overflow: hidden;
+}
+.section-5{
+    padding: 20px;
+    font-size: 30px;
+}
+.section-5 #infomation-2{
+    width: 30%;
+}
+hr #linea {
+    margin-top: 200px;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgb(60, 9, 9);
+}
+#information-text{
+    text-align: start;
+    width: 300px;
+}
+form{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 300px;
+}
+form .formulario{
+    border: solid 1px #ACA9A8;
+    margin: 2px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    width: 300px;
+}
+
+form input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 0px;
+}
+.form-control{
+    border: 0px;
+    border-bottom: solid 1px #ACA9A8;
+    border-radius: 0px;
+    margin: 0px;
+}
+.footer{
+    background-color: #034A8D;
+    color: white;
+}
+.footer .row{
+    margin: 20px;
+    padding: 50px;
+}
+#footer-icons{
+    margin: 0px;
+    padding: 0px;
+}
+#icon-footer{
+    width: 40px;
+    height: 40px;
+}
+#icon-footer-information{
+    width: 20px;
+}
+#icon-footer-cellhpone{
+    width: 15px;
+}
